@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorh3&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorh3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/heitorh3">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorh3&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorh3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
+</a>
 </div>
   
 ![Snake animation](https://github.com/heitorh3/heitorh3/blob/output/github-contribution-grid-snake.svg)
@@ -35,8 +37,20 @@ Here are some ideas to get you started:
 <hr>
 
 ## ⚡ Sobre mim:
-    
-    🔭 Sou graduado em sistema de informação com especialização em análise e desenvolvimento de software [IFTM](https://iftm.edu.br/) e atualmente estou fazendo mestrado na [Universidade Federal de Uberlânida](https://ufu.br/). Sou servidor público e atualmente estou trabalhando on Ministério da Economia na área de dados.
+
+🔭 Sou graduado em sistema de informação com especialização em análise e desenvolvimento de software [IFTM](https://iftm.edu.br/) e atualmente estou fazendo mestrado na [Universidade Federal de Uberlânida](https://ufu.br/). Sou servidor público e atualmente estou trabalhando on Ministério da Economia na área de dados.
+
+<br>
+
+## 🎮️ Áreas de interesse 
+Gosto muito da área de tecnologia, entretando há algumas subareas nas quais mais me identifico que são elas:
+ - Programção
+ - Banco de dados
+ - Inteligência Artificial
+ - CI/CD
+ - Ánalise de Dados, entre outras
+
+<br>
 
 ### Contatos:
 
