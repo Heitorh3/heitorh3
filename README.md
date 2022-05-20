@@ -23,7 +23,20 @@ Here are some ideas to get you started:
   
 ![Snake animation](https://github.com/heitorh3/heitorh3/blob/output/github-contribution-grid-snake.svg)
   
-🔭 Atualmente estou trabalhando on Ministério da Economia
+<div style="display: inline_block"><br>
+  <img align="center" alt="Heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Heitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Heitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Heitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Heitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Heitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+<hr>
+
+## ⚡ Sobre mim:
+    
+    🔭 Sou graduado em sistema de informação com especialização em análise e desenvolvimento de software [IFTM](https://iftm.edu.br/) e atualmente estou fazendo mestrado na [Universidade Federal de Uberlânida](https://ufu.br/). Sou servidor público e atualmente estou trabalhando on Ministério da Economia na área de dados.
 
 ### Contatos:
 
