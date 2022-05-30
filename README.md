@@ -38,10 +38,11 @@ Here are some ideas to get you started:
 
 ## ⚡ Sobre mim:
 
-🔭 Sou graduado em sistema de informação com especialização em análise e desenvolvimento de sistemas no [IFTM](https://iftm.edu.br/). Atualmente estou curando mestrado na [Universidade Federal de Uberlânida](https://ufu.br/) especificamente na área de linguística de corpus com enfase na utiização de ferramentas computacionais para auxiliar a linguística. 
+🔭 Sou graduado em sistema de informação com especialização em análise e desenvolvimento de sistemas no [IFTM](https://iftm.edu.br/) :pencil: . Atualmente estou curando mestrado na [Universidade Federal de Uberlânida](https://ufu.br/) especificamente na área de linguística de corpus com enfase na utiização de ferramentas computacionais para auxiliar a linguística. 
 
 <br>
 
+### :construction_worker: Experiências profissionais:<br>
 Sou servidor público lotado on Ministério da Economia na área de análise dados.
 
 <br>
