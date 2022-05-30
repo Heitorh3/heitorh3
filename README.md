@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 
 ## ⚡ Sobre mim:
 
-🔭 Sou graduado em sistema de informação com especialização em análise e desenvolvimento de software [IFTM](https://iftm.edu.br/) e atualmente estou fazendo mestrado na [Universidade Federal de Uberlânida](https://ufu.br/). Sou servidor público e atualmente estou trabalhando on Ministério da Economia na área de dados.
+🔭 Sou graduado em sistema de informação com especialização em análise e desenvolvimento de software [IFTM](https://iftm.edu.br/) e atualmente estou curando mestrado na [Universidade Federal de Uberlânida](https://ufu.br/) mais especificamente na área de linguística de corpus, na utiização de ferramentas computacionais com a linguística. 
+
+<br>
+
+Sou servidor público e atualmente estou trabalhando on Ministério da Economia na área de dados.
 
 <br>
 
